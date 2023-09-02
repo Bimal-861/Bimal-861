@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bimal-861
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning computer Science and Engineering.
-- 💞️ I’m looking to collaborate on ....
+- 🌱 I’m Recently graduated in computer Science and Engineering.
+- 💞 Looking for entry level sofftware job.
 - 📫 How to reach me @maitybimal861@gmail.com
 
 <!---
