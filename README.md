@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development.
 - 🌱 I’m Recently graduated in computer Science and Engineering.
 - 💞 Looking for entry level sofftware job.
-- 📫 How to reach me @maitybimal861@gmail.com
+- 📫 How to reach me #jobsforbimal@gmail.com
 
 <!---
 Bimal-861/Bimal-861 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
