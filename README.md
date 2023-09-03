@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bimal-861
+- 👋 Hi, I’m @Bimal
 - 👀 I’m interested in web development.
 - 🌱 I’m Recently graduated in computer Science and Engineering.
 - 💞 Looking for entry level sofftware job.
