@@ -3,6 +3,7 @@
 - 🌱 I’m Recently graduated in computer Science and Engineering.
 - 💞 Looking for entry level sofftware job.
 - 📫 How to reach me #jobsforbimal@gmail.com
+- Thank you for visit my profile
 
 <!---
 Bimal-861/Bimal-861 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
